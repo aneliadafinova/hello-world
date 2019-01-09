@@ -1,3 +1,3 @@
 # hello-world
-first steps in GitHub
-second little step in Github:)
+first steps in GitHub 
+...and a second little step in Github:)
